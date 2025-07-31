@@ -42,6 +42,7 @@ export default function DashboardPage() {
     try {
       const res = await fetch("/api/sessions")
       const data = await res.json()
+      console.log(data);
       setSessions(data.sessions || [])
     } catch (error) {
       console.error("Error fetching sessions:", error)
