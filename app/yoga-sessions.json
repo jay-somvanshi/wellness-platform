@@ -1,0 +1,47 @@
+{
+    "id": "session_001",
+    "title": "Morning Vinyasa Flow",
+    "description": "Start your day with an energizing Vinyasa yoga flow to awaken your body and mind.",
+    "instructor": {
+        "name": "Aarav Sharma",
+        "profileImage": "https://example.com/images/instructors/aarav.jpg",
+        "bio": "Certified Yoga Instructor with 8 years of experience in Vinyasa and Hatha Yoga."
+    },
+    "duration": "45 minutes",
+    "level": "Beginner",
+    "category": "Vinyasa Yoga",
+    "thumbnail": "https://example.com/images/sessions/vinyasa-morning.jpg",
+    "videoUrl": "https://example.com/videos/vinyasa-morning.mp4",
+    "tags": [
+        "morning",
+        "vinyasa",
+        "energizing",
+        "full body"
+    ],
+    "schedule": {
+        "date": "2025-08-01",
+        "time": "06:30 AM",
+        "timezone": "IST"
+    },
+    "equipmentNeeded": [
+        "Yoga Mat",
+        "Water Bottle"
+    ],
+    "benefits": [
+        "Boosts energy",
+        "Improves flexibility",
+        "Reduces stress"
+    ],
+    "reviews": [
+        {
+            "user": "Meera K.",
+            "rating": 5,
+            "comment": "Perfect start to my day. Loved the instructor's calm voice!"
+        },
+        {
+            "user": "Raj P.",
+            "rating": 4,
+            "comment": "Great flow, a bit fast for absolute beginners though."
+        }
+    ]
+}
